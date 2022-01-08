@@ -1,0 +1,15 @@
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\bin\Debug\net6.0\Hydra.exe
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\bin\Debug\net6.0\Hydra.deps.json
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\bin\Debug\net6.0\Hydra.runtimeconfig.json
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\bin\Debug\net6.0\Hydra.dll
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\bin\Debug\net6.0\ref\Hydra.dll
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\bin\Debug\net6.0\Hydra.pdb
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.csproj.AssemblyReference.cache
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.AssemblyInfoInputs.cache
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.AssemblyInfo.cs
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.csproj.CoreCompileInputs.cache
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.dll
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\ref\Hydra.dll
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.pdb
+C:\Users\Μανώλης\Documents\GitHub\Hydra_Practice\Hydra\Hydra\obj\Debug\net6.0\Hydra.genruntimeconfig.cache
